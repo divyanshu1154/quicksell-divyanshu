@@ -1,0 +1,11 @@
+.status{
+    display: flex;
+    flex-wrap: nowrap;
+    padding: 10px;
+}
+
+@media (max-width: 768px) {
+    .status {
+      flex-direction: column;
+    }
+}

@@ -1,0 +1,17 @@
+.cardbox{
+    width: 400px;
+    margin: 10px;
+}
+
+.top{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+
+.top .second{
+    width: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
